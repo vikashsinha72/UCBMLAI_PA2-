@@ -9,6 +9,8 @@ I have used CRISP-DM Methodology to understand and analyze data for comparing th
 # Understanding the Data #
 Extract the .zip file to access the dataset and any accompanying documentation.
 Load the dataset into a pandas DataFrame for analysis.
+Data source: "data/bank-additional/bank-additional-full.csv"
+Total:  21 columns
 
 # Understand the Business Problem:
 Objective: The business goal is to predict whether a client will subscribe to a term deposit based on the results of telemarketing campaigns.
